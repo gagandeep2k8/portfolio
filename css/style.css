@@ -1,0 +1,61 @@
+@media screen and (min-width: 455px) {
+	.main-title {
+		font-size: 50px;
+	}
+}
+
+@media screen and (max-width: 455px) {
+	h3 {
+		font-size: 14px;
+	}
+	.project-link {
+		font-size: 12px;
+	}
+}
+
+.row {
+	width: 100%;
+}
+
+.text {
+	color: #7d97ad;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+}
+
+.img-height{
+	height:207px;
+}
+
+.footer {
+	text-align: center; 
+	border-top-color: #7d97ad;
+	border-top-style: solid;
+	padding: 10px;
+	color:#2d3c49;
+}
+
+a {
+	color: #2d3c49;
+}
+
+.title-heading, 
+.projects {
+	display: flex;
+}
+
+.logo {
+	margin-top: 20px;
+}
+
+.horizontal-rule {
+	background:#7d97ad; 
+	height:6px;
+}
+
+.text-margin{
+	margin-top:10px;
+}
